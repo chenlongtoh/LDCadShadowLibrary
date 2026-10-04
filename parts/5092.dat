@@ -4,6 +4,6 @@
 0 !LICENSE CC BY-SA 4.0, see LICENSE.md
 
 0 !HISTORY 2025-06-14 {Philippe Hurbain} Initial info for 5092.dat
+0 !HISTORY 2025-10-05 {Nathan T} Remove extra snap area
 
-0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=-10 8 0]
 0 !LDCAD MIRROR_INFO [baseFlip=Z] [counterPart=5091.dat]
