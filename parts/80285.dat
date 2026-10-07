@@ -1,0 +1,12 @@
+0 LDCad shadow info for "Technic, Panel Curved 2 x 5 x 3 Double Modified L-Shape Quarter Ellipse Thick"
+
+0 Author: LDCad Shadow Library
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 !HISTORY 2026-10-07 {Nathan T} Initial info for 80285.dat
+0 !HISTORY 2026-10-07 {Nathan T} Edited connectivity for 80285.dat
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 8 2   R 6 16   R 8 2] [center=true] [slide=true] [pos=0 0 20] [ori=-1 0 0 0 0 -1 0 1 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 8 2   R 6 16   R 8 2] [center=true] [slide=true] [pos=0 0 -20] [ori=-1 0 0 0 0 -1 0 -1 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 8 2   R 6 16   R 8 2] [center=true] [slide=true] [pos=-20 -40 20] [ori=0 0 1 -1 0 0 0 1 0] [grid=C 5 C 1 20 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 8 2   R 6 16   R 8 2] [center=true] [slide=true] [pos=-20 -40 -20] [ori=0 0 1 -1 0 0 0 -1 0] [grid=C 5 C 1 20 20]
