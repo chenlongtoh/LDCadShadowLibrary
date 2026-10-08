@@ -1,0 +1,10 @@
+0 LDCad shadow info for "SEMBO-D541+R"
+
+0 Author: LDCad Shadow Library
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 !HISTORY 2026-10-08 {John Doe} Initial info for mfb79c73f_2026520_121207.dat
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=A 6 18] [slide=true] [pos=0 -20 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 8 2   R 6 16   R 8 2] [center=true] [slide=true] [pos=0 -29 -18] [grid=C 2 2 20 35]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 8 2   R 6 16   R 8 2] [center=true] [slide=true] [pos=-20 -29 0] [grid=2 C 1 40 20]
