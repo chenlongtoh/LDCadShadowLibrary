@@ -1,0 +1,8 @@
+0 LDCad shadow info for "Technic Axle Pin Hard Snap {unofficial}"
+
+0 Author: LDCad Shadow Library
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 !HISTORY 2026-10-12 {Nathan T} Initial info for 5794.dat {unofficial}
+
+0 !LDCAD SNAP_CYL [gender=M] [caps=none] [secs=L_ 6.25 2   R 6 16   _L 8 2] [center=true] [slide=true] [pos=-10 0 0] [ori=0 -1 0 1 0 0 0 0 1]
