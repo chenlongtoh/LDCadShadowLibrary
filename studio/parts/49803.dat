@@ -1,0 +1,14 @@
+0 LDCad shadow info for "studio:49803.dat (alias of 49308.dat)"
+
+0 Author: ldraw-library-sync
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 !HISTORY 2026-10-15 {ldraw-library-sync} Seeded by ldraw-library-sync from the LDraw part, moved by the Studio frame fit; review
+
+0 !LDCAD SNAP_CLEAR
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=10 -4 10] [ori=1 0 0 0 -1 0 0 0 1]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=10 -4 -10] [ori=1 0 0 0 -1 0 0 0 1]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=-10 -4 10] [ori=1 0 0 0 -1 0 0 0 1]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=-10 -4 -10] [ori=1 0 0 0 -1 0 0 0 1]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 6 4] [pos=0 -32 0]
