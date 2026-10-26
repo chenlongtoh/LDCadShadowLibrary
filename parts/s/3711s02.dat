@@ -1,0 +1,9 @@
+0 LDCad shadow info for "~Technic Chain Link - Common Areas Across the Family"
+
+0 Author: LDCad Shadow Library
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 !HISTORY 2026-10-26 {Nathan T} Initial info for s/3711s02.dat
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 1.5 2.5] [pos=7 0 16] [ori=0 -1 0 0 0 1 -1 0 0]
+0 !LDCAD SNAP_CLP [radius=1.5] [length=2.6] [center=true] [pos=8.5 0 0] [ori=0 -1 0 0 0 1 -1 0 0]
